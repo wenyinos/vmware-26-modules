@@ -1,0 +1,9 @@
+# 内核模块构建产物（kbuild 生成，make 可重新生成）
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
+.claude/
